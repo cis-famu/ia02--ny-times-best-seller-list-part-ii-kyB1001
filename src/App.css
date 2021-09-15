@@ -1,0 +1,26 @@
+.card img{
+  height: 10.625rem;
+  max-width: 8.25rem;
+  padding-top:1em;
+}
+.header-title {
+  font-family: nyt-cheltenham,georgia,'times new roman',times,serif;
+}
+.btn-secondary{
+  background-color: #567b95 !important;
+}
+
+.card-footer{
+  background-color: rgba(0,0,0,0) !important;
+  border-top: 0 !important;
+}
+
+.card-title{
+  font-size: 1.187rem;
+}
+.card-body{
+  font-size: 0.875rem;
+}
+.card-subtitle{
+  font-size: 0.9375rem;
+}
